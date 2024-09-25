@@ -1,4 +1,4 @@
-# [![Monext Logo](doc/logo-monext.svg)](https://www.monext.fr/)
+https://www.monext.fr/
 
 # Monext Salesforce Plugin
 
